@@ -1,10 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Projeto Teste: Menu Drink's
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Desenvolvido em [Nuxt 3](https://nuxt.com/docs/getting-started/introduction), utilizando a API [TheCocktailDB](https://www.thecocktaildb.com/api.php) 
 
-## Setup
+**Objetivo**: Atender aos requisitos do [Desafio para frontend da Faster](https://github.com/fasterbr/desafio-frontend). 
 
-Make sure to install the dependencies:
+## Instalação de Dependências
 
 ```bash
 # npm
@@ -17,9 +17,9 @@ pnpm install
 yarn install
 ```
 
-## Development Server
+## Run
 
-Start the development server on `http://localhost:3000`:
+Server em `http://localhost:3000`:
 
 ```bash
 # npm
@@ -31,33 +31,3 @@ pnpm run dev
 # yarn
 yarn dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
